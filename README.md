@@ -62,5 +62,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<a href="#"><img alt="Jnnsu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jnnsu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="170px"/></a>
-<a href="#"><img alt="Jnnsu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jnnsu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="170px"/></a>
+<div align="center">
+  <a href="#"><img alt="Jnnsu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jnnsu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="140px"/></a>
+  <a href="#"><img alt="Jnnsu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jnnsu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="140px"/></a>
+</div>
