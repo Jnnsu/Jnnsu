@@ -25,6 +25,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Jnnsu/Jnnsu/output/snake.svg" alt="Snake animation" />
 
 ###
