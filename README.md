@@ -18,7 +18,7 @@
 
 ###
 
-![snake gif](https://github.com/Jnnsu/Jnnsu/blob/output/github-contribution-grid-snake.svg)
+![gif](https://github.com/Jnnsu/Jnnsu/blob/main/gitartwork.svg)
 
 ###
 
