@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img alt="Coding" width="500" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="431">
+  <img alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="345">
 <div/>
 
 
