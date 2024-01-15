@@ -5,8 +5,9 @@
 ###
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
-</div>
+  <img alt="Coding" width="500" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="431">
+<div/>
 
 
 ###
@@ -67,7 +68,3 @@
   <a href="#"><img alt="Jnnsu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jnnsu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="140px"/></a>
   <a href="#"><img alt="Jnnsu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jnnsu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="140px"/></a>
 </div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="800">
-<div/>
