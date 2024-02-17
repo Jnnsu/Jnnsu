@@ -10,7 +10,7 @@
 <div align='left'> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About me </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-    I'm learning to become a FE developer <br>
+    I'm learning about FE developing skills <br>
   </div> 
 </div>
 
