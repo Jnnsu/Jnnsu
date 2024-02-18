@@ -1,7 +1,7 @@
 <div>
   <div align='center'>
     <h3>Today's viewer</h3>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJnnsu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" width='200'/></a>
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJnnsu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" width='200'/>
   </div> 
 </div>
 
@@ -10,7 +10,7 @@
 <div align='left'> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About me </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-    I'm learning about FE developing skills <br>
+    FE developer<br>
   </div> 
 </div>
 
@@ -18,15 +18,19 @@
   <img alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
 <div/>
 
+###
 
-<div align='left' style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
-  <div style="text-align: left;"> 
-    <h3>Email</h3>
-    <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"></a>
-    <h3>My Blog</h3>
-      <a href=https://velog.io/@jspp120/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jspp120/posts"> </a>
-  </div> 
+<div align='left'>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h3>
+  <div> 
+    <p>Email</p>
+    <a href="mailto:jspp120@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:">        </a>
+    <p>My Blog</p>
+    <a href=https://velog.io/@jspp120/posts>
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jspp120/posts">
+    </a>
+  </div>
 </div>
 
 ###
