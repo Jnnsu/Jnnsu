@@ -1,35 +1,19 @@
 <div>
   <div align='center'>
-    <h3>Today's viewer</h3>
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJnnsu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" width='200'/>
   </div> 
 </div>
 
 ### 
+<img align='right' alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
 
 <div align='left'> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About me </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-    FE developer<br>
-  </div> 
-</div>
-
-<div align="right">
-  <img alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
-<div/>
-
-###
-
-<div align='left'>
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h3>
-  <div> 
-    <p>Email</p>
-    <a href="mailto:jspp120@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:">        </a>
-    <p>My Blog</p>
-    <a href=https://velog.io/@jspp120/posts>
-      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jspp120/posts">
-    </a>
+  <h2 align='left' style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About me </h2>  
+    I'm steadily growing FE developer<br>
+      <br>
+  <div>
+  <p>📫 Email: <a href="mailto:jspp120@gmail.com">jspp120@gmail.com</a></p>
+  <p>🌿 Tech Blog:  <a href=https://velog.io/@jspp120/posts>Velog</a></p>
   </div>
 </div>
 
@@ -39,17 +23,21 @@
 
 <div align='left' style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
-  <br> 
   <div style="margin: ; text-align: left;" "text-align: left;"> 
+    <h3></h3>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
     <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
-    <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
   </div>
 </div>
 
@@ -88,8 +76,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-  <a href="#"><img alt="Jnnsu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jnnsu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="170px"/></a>
-  <a href="#"><img alt="Jnnsu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jnnsu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="170px"/></a>
+  <a href="#"><img alt="Jnnsu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jnnsu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/></a>
+  <a href="#"><img alt="Jnnsu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jnnsu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="160px"/></a>
 </div>
 
     
