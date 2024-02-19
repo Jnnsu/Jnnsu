@@ -1,8 +1,12 @@
-<div>
-  <div align='center'>
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJnnsu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" width='200'/>
-  </div> 
+
+<div align='center'>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJnnsu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" width='200'/>
+</div> 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jnnsu/count.svg?"  />
 </div>
+
 
 ### 
 <img align='right' alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
