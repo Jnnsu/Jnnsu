@@ -3,17 +3,19 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJnnsu%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false" width='150'/>
 </div>
 
+<br>
 
 ### 
 <img align='right' alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
 
 <div align='left'> 
   <h2 align='left' style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 About me </h2>  
-    I'm steadily growing FE developer<br>
-      <br>
+    I'm steadily growing FE developer
+    <br>
+    <br>
   <div>
-  <p>📫 Email: <a href="mailto:jspp120@gmail.com">jspp120@gmail.com</a></p>
-  <p>🌿 Tech Blog:  <a href=https://velog.io/@jspp120/posts>Velog</a></p>
+    <p>📫 Email: <a href="mailto:jspp120@gmail.com">jspp120@gmail.com</a></p>
+    <p>🌿 Tech Blog:  <a href=https://velog.io/@jspp120/posts>Velog</a></p>
   </div>
 </div>
 
