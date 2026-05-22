@@ -10,8 +10,8 @@ Focused on great UX for users, clean DX for teammates
 </br>
 
 🔭 Currently building — **Loom** (AI knowledge graph), **Yeargo** (personal growth album)  
-💡 Interested in — Interactive UI, AI-powered web apps  
-✍️ Writing about frontend dev on [Velog](https://velog.io/@[your-velog-id])
+💡 Interested in — Interactive UI, Data Visualization, AI-powered web apps  
+✍️ Writing about frontend dev on [Velog](https://velog.io/@jspp120)
 
 ---
 
